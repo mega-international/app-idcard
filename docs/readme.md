@@ -29,10 +29,10 @@ To search for an application, start typing some characters in the search field. 
 ![Application Search](images/QSG-SearchPageApplication.png)
 
 Selecting an application in the result list will open application ID Card with different sections:
-•	Application Main Characteristics
-•	Scope (functional and technical)
-•	Responsibility
-•	Usage
+-	Application Main Characteristics
+-	Scope (functional and technical)
+-	Responsibility
+-	Usage
 
 ![Application Page](images/QSG-ApplicationPage.png)
 
