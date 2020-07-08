@@ -67,3 +67,56 @@ This menu allows user to:
 - Sign out
 
 ![Information Menu](images/QSG-InformationMenu.png)
+
+## Install App ID Card
+
+[Installation compatibility chart](https://caniuse.com/#feat=serviceworkers)
+
+### Safari on IOS
+
+To put **App ID Card** as a shortcut on your Home screen, do the following:
+
+1.	Browse to **App ID Card** URL in Safari
+1.	Tap the **Share button** in Safari.
+1.	Tap the icon labeled **Add to Home Screen**.
+1.	Tap Add in the upper-right corner.
+1.	Now name **App ID Card** so that it's distinguishable from its native counterpart on the Home screen and in Search
+1.	Tap Add in the upper-right corner.
+
+### Samsung Internet
+
+1.	Browse to **App ID Card** URL in Samsung Internet
+1.	Then :
+	- On the the address bar 
+		- Tap on the **download sign** ![install on android](images/QSG-SamsungLoginPage.png)  
+	- Or on the Samsung Internet menu 
+	1.	Tap on **+ Add page to**
+	1.	Select **Apps Screen** on the popup window
+1.	Confirm your choice in the popup window by selecting Install
+
+### Chrome on Android
+
+1.	Browse to App ID Card URL in chrome.
+1.	Then:
+	- Tap on the message
+		- **Add App ID Card to Home screen**
+	- or select in chrome menu 
+		- **Add to Home screen** in chrome menu
+1.	Confirm your choice in the popup window by selecting Add.
+
+## Reset cache
+
+### Reset cache in chrome
+
+1.	Select **Settings** in chrome menu.
+1.	Under Select **Site Settings** under advanced section.
+1.	Select Storage
+1.	Select the storage corresponding to app ID Card web site.
+1.	Tap on **Clear & Reset**
+
+## Reset cache in Samsung Internet
+
+1.	Select **Settings** in the menu.
+1.	Tap on **Sites and Download**
+1.	Tap on **Manage website data**
+1.	Tap on **Delete**
