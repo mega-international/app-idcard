@@ -8,6 +8,6 @@
 
 After the [Installation of App ID Card], open **App ID Card** App or, with Google Chrome (for instance), browse to the **App ID Card** URL. The following login page opens.
 
-![login page on a tablet](images/QSG-TabletLoginPage.png)![login page](images/QSG-PhoneLoginPage.png)
+![login page on a tablet](images/QSG-TabletLoginPage.png)   ![login page](images/QSG-PhoneLoginPage.png)
 
 Enter your **Username** and **Password** (the same as when in **HOPEX ITPM**) then tap **Sign In**. The Search page opens.
