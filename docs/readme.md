@@ -51,9 +51,13 @@ Selecting a technology in the result list will open technology ID Card with diff
 
 ![Technology Page](images/QSG-TechnologyPage.png)
 
-Note : selecting an application in the Application section will open its ID Card.________________________________________
-Favorite Management
+Note : selecting an application in the Application section will open its ID Card.
+
+## Favorite Management
+
 On an application or technology page, clicking on the star will declare/remove current page as favorite. All favorites can be quickly retrieved in the favorites page.
+
+![Favorites Management](images/QSG-FavoritesManagement.png)
  
 ## Information Menu
 
@@ -62,4 +66,4 @@ This menu allows user to:
 - Display field label even if data is missing
 - Sign out
 
-![Favorites Management](images/QSG-FavoritesManagement.png)
+![Information Menu](images/QSG-InformationMenu.png)
