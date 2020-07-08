@@ -29,11 +29,37 @@ To search for an application, start typing some characters in the search field. 
 ![Application Search](images/QSG-SearchPageApplication.png)
 
 Selecting an application in the result list will open application ID Card with different sections:
--	Application Main Characteristics
--	Scope (functional and technical)
--	Responsibility
--	Usage
+- Application Main Characteristics
+- Scope (functional and technical)
+- Responsibility
+- Usage
 
 ![Application Page](images/QSG-ApplicationPage.png)
 
 Note : selecting a technology in the Scope section/used technology tab will open its ID Card.
+
+## Technology Search
+
+To search for a technology, start typing some characters in the search field. Those characters will be searched in the name, code, or comment of all technologies if the repository.
+
+![Technology Search](images/QSG-SearchPageTechnology.png)
+
+Selecting a technology in the result list will open technology ID Card with different sections:
+- Technology Main Characteristics
+- Scope
+- Applications (using the technology)
+
+![Technology Page](images/QSG-TechnologyPage.png)
+
+Note : selecting an application in the Application section will open its ID Card.________________________________________
+Favorite Management
+On an application or technology page, clicking on the star will declare/remove current page as favorite. All favorites can be quickly retrieved in the favorites page.
+ 
+## Information Menu
+
+This menu allows user to:
+- Change the data language, which is used for display and search.
+- Display field label even if data is missing
+- Sign out
+
+![Favorites Management](images/QSG-FavoritesManagement.png)
