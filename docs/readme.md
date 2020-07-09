@@ -10,7 +10,7 @@ After the [Installation of App ID Card](#install-app-id-card), open **App ID Car
 
 ![login page on a tablet](images/QSG-TabletLoginPage.png)  ![login page](images/QSG-PhoneLoginPage.png)
 
-Enter your **Username** and **Password** (the same as when in **HOPEX ITPM**) then tap **Sign In**. The [Search page](#search) opens.
+Enter your **Username** and **Password** (the same as in **HOPEX ITPM**) then tap **Sign In**. The [Search page](#search) opens.
 
 ## Search
 
@@ -24,7 +24,7 @@ If you have already made some searches, the page presents the list of the last 1
 
 ## Application Search
 
-To search for an application, start typing some characters in the search field. Those characters will be searched in the name, code, or comment of all applications if the repository.
+To search for an application, start typing some characters in the search field. Those characters will be searched in the name, code, or comment of all applications in the repository.
 
 ![Application Search](images/QSG-SearchPageApplication.png)
 
