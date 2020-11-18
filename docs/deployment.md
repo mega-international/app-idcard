@@ -9,6 +9,9 @@ To deploy and use Application ID Card you need:
 - **HTTPS** is mandatory since **Application ID Card** is a [PWA](https://developers.google.com/web/ilt/pwa/introduction-to-progressive-web-app-architectures).
 - [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)  Extension for IIS
 - Browser minimum version [please check](https://caniuse.com/#feat=serviceworkers)
+- [Temporarily] Add those lines in Megaenv.ini file(s) of your Hopex installation:
+    [Filter-Available]
+    rfDd5x976f30=1
 
 ## Deploy on IIS
 
